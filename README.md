@@ -1,7 +1,9 @@
 **Removing stop words with NLTK in Python**
+
 A stop word is a commonly used word (such as "the", "a", "an", or "in") that a search engine has been programmed to ignore, both when indexing entries for searching and when retrieving them as the result of a search query.
 
 **Types of Stopwords**
+
 Stopwords are frequently occurring words in a language that are frequently omitted from natural language processing (NLP) tasks due to their low significance for deciphering textual meaning. The particular list of stopwords can change based on the language being studied and the context. The following is a broad list of stopword categories:
 
 Common Stopwords: These are the most frequently occurring words in a language and are often removed during text preprocessing. Examples include "the," "is," "in," "for," "where," "when," "to," "at," etc.\
