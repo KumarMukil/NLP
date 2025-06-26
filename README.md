@@ -15,6 +15,8 @@ Contextual Stopwords: Focuses on removing context-specific words like "will" bas
 Each section uses tokenization and filtering logic tailored to specific types of stopwords, helping refine text data for NLP applications.
 
 
+
+
 **Removing stop words with NLTK in Python**
 
 A stop word is a commonly used word (such as "the", "a", "an", or "in") that a search engine has been programmed to ignore, both when indexing entries for searching and when retrieving them as the result of a search query.
